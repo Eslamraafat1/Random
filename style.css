@@ -1,0 +1,42 @@
+body {
+  background-image   : url(pexels-aksonsat-uanthoeng-1078850.jpg);
+  background-position: center;
+  background-size    : cover;
+}
+
+.chose {
+  text-align : center;
+  margin-top : 50px;
+  font-size  : 70px;
+  font-weight: 600;
+
+}
+
+.paragh {
+  text-align: center;
+  margin-top: 50px;
+  font-size : 40px;
+}
+
+.new {
+
+  margin-top      : 20px;
+  padding         : 20px 80px;
+  background-color: #312f2a;
+  color           : wheat;
+  border: none;
+
+}
+
+.new:hover {
+  background-color: black;
+  color: white;
+}
+
+p {
+  font-size: 35px;
+}
+
+div {
+  text-align: center;
+}
